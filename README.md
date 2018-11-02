@@ -1,3 +1,3 @@
-# sample-git-for-HZ
+# Welcome to sample-git-for-HZ
 
-This is a sample repository for my Eclipse/Java course
+This is a sample repository for my Eclipse/Java course, used to push and fetch the elements.
